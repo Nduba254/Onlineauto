@@ -1,0 +1,28 @@
+@import '../../variables';
+
+.navbar{
+    width: 100%;
+    color: rgb(0, 0, 0);
+};
+
+.navbar-logo-img{
+    width: 100px;
+    height: 60px;
+};
+
+.navbar-brand{
+    color: $white-color !important;
+    /*font-weight: initial;*/
+};
+
+.navbar-link{
+    color: $white-color !important;
+    &:hover{
+        color:$highlight-color !important;
+    }
+};
+
+.navbar-link-active{
+    padding-bottom: 3px;
+    border-bottom:1px solid $highlight-color;
+};

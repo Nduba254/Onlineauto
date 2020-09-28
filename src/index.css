@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: /*-apple-system, BlinkMacSystemFont,*/ Arial, Helvetica, sans-serif, 'Segoe UI', 'Roboto', 'Helvetica Neue', 'Heveltica','arial' ,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family:  /*source-code-pro, Menlo, Monaco, Consolas,*/ 'Courier New',  Arial, Helvetica, sans-serif
+    monospace;
+}
